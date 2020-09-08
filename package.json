@@ -1,0 +1,9 @@
+{
+  "name": "eduro",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.20.0",
+    "node-jsencrypt": "^1.0.0"
+  }
+}
